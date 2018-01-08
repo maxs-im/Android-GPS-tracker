@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GPS Tracker</string>
+    <string name="start_button">Start</string>
+    <string name="stop_button">Stop</string>
+    <string name="speed_text_name">Speed (m/s):</string>
+    <string name="distance_text_name">Distance (metres):</string>
+    <string name="time_text_name">Time (H:MM:SS):</string>
+    <string name="speed_val">0</string>
+    <string name="distance_val">0</string>
+    <string name="time_val">0:00:00</string>
+</resources>
